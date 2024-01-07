@@ -72,7 +72,6 @@ deleteBtns.forEach((e) => {
 });
 
 // Bonus: ITERATION 4 - Add Random Contacts
-
 // Your code goes here ...
 buttonAddRandom.addEventListener("click", () => {
   const randomIndex = Math.floor(Math.random() * contacts.length);
